@@ -60,9 +60,10 @@ Este projeto foi desenvolvido com fins acadêmicos dentro da matéria de program
 * Dicionários
 * Tratamento de exceções
 
-## Autor
 
-Desenvolvido para fins educacionais e de aprendizagem em Python por:
+Desenvolvido para fins educacionais e de aprendizagem na faculdade de ciência da computação 
+
+##Autores:
 
 ## Nayara Lins
 ## Nayane Lins
